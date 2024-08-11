@@ -1,7 +1,26 @@
 <h1 align="center"> 🔶🔸 Habit Tracker App 🔸🔶 </h1>
 
-- GetX is a popular state management solution for Flutter applications. It provides a simple and efficient way to manage the state of your application without the need for complex boilerplate code. GetX offers reactive state management, dependency injection, and route management, making it a comprehensive solution for developers.
-- This app shows how to create a counter app using getx and how to navigate from one page to another page.
+## Description
+
+## 📅 Track Multiple Habits
+- Monitor various habits simultaneously, from exercise to reading.
+- Keep all your important routines in one place.
+
+## 💾 Isar Database Integration
+- Leverage the fast and efficient Isar database.
+- Store and manage your habit data securely and with high performance.
+
+## 📆 Flexible Scheduling
+- Choose specific days or set habits as daily tasks.
+- Customize your schedule easily.
+
+## 🌙 Night Mode
+- Night mode for low-light conditions.
+- Comfortable experience during nighttime use.
+
+## 🗓 Integration with Calendar
+- Sync habits with your calendar.
+- Incorporate routines into your daily schedule.
 
 <h1 align="left"> </h1>
 <h2 align="center"> Splash Screen </h2>
